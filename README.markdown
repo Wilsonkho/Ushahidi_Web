@@ -4,6 +4,9 @@ The Ushahidi Platform is an open source web application for information collecti
 mapping. It allows people to collect and share their own stories using various mediums such
 as SMS, Web Forms, Email or Twitter. For more information about the platform and use cases (case studies) visit: http://www.ushahidi.com
 
+Quick Installation Instructions
+-------------------------------
+For Condensed set of instructions visit: http://www.wikihow.com/Set-Up-Ushahidi-Web-App-Locally
 
 System Requirements
 -------------------
@@ -17,8 +20,8 @@ To install the platform on your computer/server, the target system must meet the
     - lighttpd
     - nginx
     - Microsoft Internet Information Server (MS IIS)
+    - MAMP 3.2+
 * Unicode support in the operating system
-
 
 Required Extensions
 -------------------
